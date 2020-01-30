@@ -1,0 +1,11 @@
+{
+  "name": "pizza-delivery",
+  "version": "1.0.0",
+  "description": "Pizza Delivery Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lint && node index.js",
+    "lint": "eslint index.js src/**"
+  },
+  "author": "Billie Ko <bmkrocks@gmail.com>"
+}
